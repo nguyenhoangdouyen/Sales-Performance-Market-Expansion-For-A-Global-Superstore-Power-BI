@@ -103,7 +103,15 @@ The dataset consists of **three tables**:
 
 ### 🧠 Design Thinking Process
 
-### 1️⃣ Empathize
+#### 1️⃣ Empathize
 
 ![Image](https://github.com/user-attachments/assets/31ed7661-a5b5-4aa4-a668-b82f7a158f20)
 
+![Image](https://github.com/user-attachments/assets/d1daa54c-ed85-4390-86a2-ef683459f902)
+
+#### 2️⃣ Define point of view 
+
+![Image](https://github.com/user-attachments/assets/41a981fb-ac37-4ad8-9870-8964f729ec29)
+
+#### 3️⃣ Ideate
+![image](https://github.com/user-attachments/assets/66f93774-6ebd-4f38-bab7-0578a4660864)
