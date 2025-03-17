@@ -128,7 +128,7 @@ This part is in the dashboard
 
 ![Image](https://github.com/user-attachments/assets/7688db58-8ca6-4cde-aad0-8a6c324ff7ea)
 
-#### 📌 Key Findings:
+### 📌 Key Findings:
 
 **Overall Business Performance**  
 - Total revenue: **$9.48M**, profit: **$1.09M**, with **25K orders**.  
@@ -150,7 +150,7 @@ This part is in the dashboard
 
 ![Image](https://github.com/user-attachments/assets/9659dfdb-e206-4234-82ef-ec67a584f1cf)
 
-#### 📌 Key Findings:
+### 📌 Key Findings:
 
 - Total Revenue: **$9.48M**, Profit: **$1.09M**, ROI: **12%**. Revenue grows, but profit stagnates in 2014, indicating rising costs or declining margins.  
 - APAC leads in profit (**$531.77K**) but has the highest return rate (**5.45%**), while EU profits less (**$332.26K**) but maintains a lower return rate (**0.85%**).  
@@ -160,11 +160,11 @@ This part is in the dashboard
 - Profit growth fluctuates, with 2014 showing stagnation despite revenue growth.  
 - APAC and EU drive revenue and profit, but APAC sees higher return risks, while the US struggles with low ROI.  
 
-### II. Product Analysis
+### III. Product Analysis
 
 ![Image](https://github.com/user-attachments/assets/caf3fa51-42f1-4acf-9a89-dcfbfa334b8c)
 
-#### 📌 Key Findings:
+### 📌 Key Findings:
 - **Top 10 products** by revenue & profit: **Cisco Smartphones, Motorola Smartphones, Canon Copiers** lead.  
 - **Technology** has the **highest revenue** but also a **higher return rate**, impacting profitability.  
 - **Office Supplies** maintains **steady revenue** and **low return rates**, making it a stable category.  
