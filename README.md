@@ -131,20 +131,20 @@ This part is in the dashboard
 #### 📌 Key Findings:
 
 **Overall Business Performance**  
-- **Total revenue**: **$9.48M**, **profit**: **$1.09M**, with **25K orders**.  
-- **AOV**: **$378.52**, **ROI**: **11.50%**.  
-- **Revenue grows steadily**, but **profit stagnates in 2014**, indicating **rising costs or declining margins**.  
+- Total revenue: **$9.48M**, profit: **$1.09M**, with **25K orders**.  
+- AOV: **$378.52**, ROI: **11.50%**.  
+- Revenue grows steadily, but profit stagnates in **2014**, indicating rising costs or declining margins.  
 
 **Customer Analysis**  
-- **Returning customers outnumber new customers**, reflecting a **loyal customer base**.  
-- **New customer acquisition remains low**, suggesting **limited market expansion**.  
-- **Returning customers contribute most of the revenue**, indicating **repeat purchase behavior and stable cash flow**.  
-- **New customers generate lower revenue**, possibly due to **lower purchase frequency or smaller order values**.  
+- Returning customers outnumber new customers, reflecting a loyal customer base.  
+- New customer acquisition remains low, suggesting limited market expansion.  
+- Returning customers contribute most of the revenue, indicating repeat purchase behavior and stable cash flow.  
+- New customers generate lower revenue, possibly due to lower purchase frequency or smaller order values.  
 
-**Revenue & Profit Trends by Year**  
-- **Revenue increased from $1.68M (2011) to $3.21M (2014)**, nearly doubling, but **growth slowed down**.  
-- **Profit growth was inconsistent**, with **2014 showing stagnation**, likely due to **increased costs or declining profit margins**.  
-- **ROI declined in 2014**, indicating **profit did not scale proportionally with revenue**.  
+**Revenue & Profit Trends by Year**
+- Revenue increased from **$1.68M (2011) to $3.21M (2014)**, nearly doubling, but growth slowed down.  
+- Profit growth was inconsistent, with **2014 showing stagnation**, likely due to increased costs or declining profit margins.  
+- ROI declined in **2014**, indicating profit did not scale proportionally with revenue.  
 
 #### II. Market Analysis
 
@@ -152,13 +152,14 @@ This part is in the dashboard
 
 #### 📌 Key Findings:
 
-- **Total Revenue**: **$9.48M**, **Profit**: **$1.09M**, **ROI**: **12%**. **Revenue grows**, but **profit stagnates in 2014**, indicating **rising costs or declining margins**.  
-- **APAC leads in profit ($531.77K)** but has the **highest return rate (5.45%)**, while **EU profits less ($332.26K) but maintains a lower return rate (0.85%)**.  
-- **Return rates decline** from **6.36% (2011) to 5.41% (2014)**.  
-- **ROI by market**: **Canada tops at 13%**, while **the US lags at 1%**, showing a **profitability gap**.  
-- **Top revenue regions**: **South, Central, Oceania, North, and Southeast Asia**.  
-- **Profit growth fluctuates**, with **2014 showing stagnation despite revenue growth**.  
-- **APAC and EU drive revenue and profit**, but **APAC sees higher return risks**, while **the US struggles with low ROI**.  
+- Total Revenue: **$9.48M**, Profit: **$1.09M**, ROI: **12%**. Revenue grows, but profit stagnates in 2014, indicating rising costs or declining margins.  
+- APAC leads in profit (**$531.77K**) but has the highest return rate (**5.45%**), while EU profits less (**$332.26K**) but maintains a lower return rate (**0.85%**).  
+- Return rates decline from **6.36% (2011) to 5.41% (2014)**.  
+- ROI by market: Canada tops at **13%**, while the US lags at **1%**, showing a profitability gap.  
+- Top revenue regions: South, Central, Oceania, North, and Southeast Asia.  
+- Profit growth fluctuates, with 2014 showing stagnation despite revenue growth.  
+- APAC and EU drive revenue and profit, but APAC sees higher return risks, while the US struggles with low ROI.  
+
 
 
 
