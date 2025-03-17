@@ -15,6 +15,7 @@ The objective is to:
 - Identify strategic products for growth.
 - Provide data-driven insights to improve decision-making.
 
+
 **👤 Who is this project for?**
 
 ✔️ Data analysts & business analysts seeking actionable insights.
@@ -34,4 +35,21 @@ The objective is to:
 
 
 **🎯Project Outcome:**
+
+## 📂 Dataset Description & Data Structure
+
+### **📌 Data Source** 
+
+- **Source**: Kaggle  
+- **Size**: The **Orders** table contains **51,290** records.  
+- **Format**: CSV  
+
+### 📊 **Data Structure & Relationships**  
+
+#### 1️⃣ **Tables Used:**  
+The dataset consists of **three tables**:  
+
+- 🛒 **Orders** – Contains detailed transaction and customer information (**51,290 records**).  
+- 🔄 **Returns** – Stores data on returned orders.  
+- 👥 **People** – Holds information about sales representatives.  
 
