@@ -56,7 +56,7 @@ The dataset consists of **three tables**:
 - 🔄 **Returns** – Stores data on returned orders.  
 - 👥 **People** – Holds information about sales representatives.  
 
-**2️⃣ Table Schema & Data Snapshot**
+#### **2️⃣ Table Schema & Data Snapshot**
 
 **Table 1**: Orders 
 
@@ -96,3 +96,7 @@ The dataset consists of **three tables**:
 |-------------|----------|-------------|
 | `Returned`  | `VARCHAR` | Indicates whether the order was returned (e.g., 'Yes' or 'No'). |
 | `Order ID`  | `VARCHAR` | Unique identifier for each order. |
+
+#### 3️⃣ Data Relationships:
+
+![Image](https://github.com/user-attachments/assets/ea814a90-0f20-4b7d-9cb1-929e79163978)
