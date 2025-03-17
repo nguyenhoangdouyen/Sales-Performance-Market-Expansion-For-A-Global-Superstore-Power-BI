@@ -124,7 +124,7 @@ This part is in the dashboard
 
 ### 🔍 Dashboard Preview
 
-#### I. Overview
+### I. Overview
 
 ![Image](https://github.com/user-attachments/assets/7688db58-8ca6-4cde-aad0-8a6c324ff7ea)
 
@@ -146,7 +146,7 @@ This part is in the dashboard
 - Profit growth was inconsistent, with **2014 showing stagnation**, likely due to increased costs or declining profit margins.  
 - ROI declined in **2014**, indicating profit did not scale proportionally with revenue.  
 
-#### II. Market Analysis
+### II. Market Analysis
 
 ![Image](https://github.com/user-attachments/assets/9659dfdb-e206-4234-82ef-ec67a584f1cf)
 
@@ -160,7 +160,7 @@ This part is in the dashboard
 - Profit growth fluctuates, with 2014 showing stagnation despite revenue growth.  
 - APAC and EU drive revenue and profit, but APAC sees higher return risks, while the US struggles with low ROI.  
 
-#### II. Product Analysis
+### II. Product Analysis
 
 ![Image](https://github.com/user-attachments/assets/caf3fa51-42f1-4acf-9a89-dcfbfa334b8c)
 
