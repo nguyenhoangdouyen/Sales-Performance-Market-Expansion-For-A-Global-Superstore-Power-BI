@@ -100,3 +100,10 @@ The dataset consists of **three tables**:
 #### 3️⃣ Data Relationships:
 
 ![Image](https://github.com/user-attachments/assets/ea814a90-0f20-4b7d-9cb1-929e79163978)
+
+### 🧠 Design Thinking Process
+
+### 1️⃣ Empathize
+
+![Image](https://github.com/user-attachments/assets/31ed7661-a5b5-4aa4-a668-b82f7a158f20)
+
