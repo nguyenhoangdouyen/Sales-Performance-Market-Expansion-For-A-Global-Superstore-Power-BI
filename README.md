@@ -124,7 +124,7 @@ This part is in the dashboard
 
 ### 🔍 Dashboard Preview
 
-#### 1️⃣  Overview
+#### I. Overview
 
 ![Image](https://github.com/user-attachments/assets/7688db58-8ca6-4cde-aad0-8a6c324ff7ea)
 
@@ -148,3 +148,22 @@ This part is in the dashboard
 - Profit growth was inconsistent, with **2014 showing stagnation**, likely due to increased costs or declining profit margins.  
 - ROI fluctuated over the years, with a decline in 2014, indicating profit did not scale proportionally with revenue.  
 
+#### II. Market Analysis
+
+![Image](https://github.com/user-attachments/assets/9659dfdb-e206-4234-82ef-ec67a584f1cf)
+
+#### 📌 Key Findings:
+
+- **Total Revenue** reaches **$9.48M** with a **Profit of $1.09M**, resulting in an **ROI of 12%**. While revenue has been growing over the years, profit growth has not kept pace, particularly in **2014**, where it shows signs of stagnation. This suggests **rising costs or declining profit margins**.  
+
+- **APAC** generates the **highest profit ($531.77K)** but also has the **highest return rate (5.45%)**, whereas **EU** has a **lower profit ($332.26K)** but maintains a significantly **lower return rate (0.85%)**. This indicates that **APAC has a large transaction volume but also a higher risk of returns**.  
+
+- **Return rates have been decreasing year over year**, from **6.36% in 2011 to 5.41% in 2014**, suggesting **improvements in return policies or product/service quality**.  
+
+- **ROI by market** shows that **Canada** performs the best at **13%**, while the **US struggles with only 1%**. Despite having revenue, the **US market's profitability is negligible**, highlighting **inefficiencies or high operational costs**.  
+
+- The **Top 5 regions by revenue** are **South, Central, Oceania, North, and Southeast Asia**, indicating **a strong dependence on a few key markets**.  
+
+- **Profit growth is inconsistent**, with **2014 showing signs of stagnation** despite revenue increasing. This could be due to **rising operational costs or intensified competition reducing profit margins**.  
+
+- **APAC and EU** are the **primary revenue and profit contributors**, but while **EU maintains a low return rate**, **APAC faces a higher risk of returns**. **The US market, despite its presence, has extremely low ROI**, suggesting that **costs may be outweighing the revenue generated**.  
