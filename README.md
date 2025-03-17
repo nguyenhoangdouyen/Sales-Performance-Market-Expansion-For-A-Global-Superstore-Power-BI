@@ -11,7 +11,6 @@
 **Objective:**
 
 **📖 What is this project about?**
-This project analyzes sales data and customer behavior for Superstore using Power BI.
 
 The objective is to:
 - Optimize market expansion strategies.
@@ -121,4 +120,32 @@ The dataset consists of **three tables**:
 
 This part is in the dashboard
 
+## 📊 Key Insights & Visualizations
+
+### 🔍 Dashboard Preview
+
+#### 1️⃣  Overview
+
+![Image](https://github.com/user-attachments/assets/7688db58-8ca6-4cde-aad0-8a6c324ff7ea)
+
+#### 📌 Key Findings:
+
+**Overall Business Performance**  
+
+- **Total Revenue:** `$9.48M`, **Profit:** `$1.09M`, with **25K orders**.  
+- **AOV (Average Order Value):** `$378.52`, **ROI:** `11.50%`.  
+- **Revenue shows steady growth**, but **profit does not increase proportionally**, especially **in 2014, where it stagnates**.  
+
+**Customer Analysis**  
+
+- **Returning customers outnumber new customers**, indicating a **loyal customer base**.  
+- **The proportion of new customers remains low**, suggesting **a need to improve market expansion strategies**.  
+- **Returning customers contribute the majority of revenue**, reflecting **repeat purchase behavior and stable cash flow**.  
+- **New customers generate lower revenue**, potentially due to **lower purchase frequency or smaller order values**.  
+
+**Revenue & Profit Trends by Year**  
+
+- **Revenue grew from $1.68M (2011) to $3.21M (2014), nearly doubling**, but **growth slowed down**.  
+- **Profit growth was inconsistent**, with **2014 showing stagnation**, likely due to **increased costs or declining profit margins**.  
+- **ROI fluctuated over the years**, with **a decline in 2014**, indicating **profit did not scale proportionally with revenue**.  
 
