@@ -154,16 +154,18 @@ This part is in the dashboard
 
 #### 📌 Key Findings:
 
-- **Total Revenue** reaches **$9.48M** with a **Profit of $1.09M**, resulting in an **ROI of 12%**. While revenue has been growing over the years, profit growth has not kept pace, particularly in **2014**, where it shows signs of stagnation. This suggests **rising costs or declining profit margins**.  
+- **Total revenue:** $9.48M, **profit:** $1.09M, **ROI:** 12%.  
+- **Revenue nearly doubled from 2011 to 2014**, but **profit growth slowed in 2014**, indicating **increased costs or reduced margins**.  
+- **APAC leads in profit** ($531.77K) but also has **the highest return rate** (5.45%), suggesting **higher transaction volume but also more returns**.  
+- **EU maintains steady profit** ($332.26K) with a **significantly lower return rate** (0.85%), making it a **more stable market**.  
+- **Return rate declined from 6.36% (2011) to 5.41% (2014),** reflecting **potential improvements in product quality or return policies**.  
+- **Canada has the highest ROI (13%)**, while **the US struggles at just 1%**, highlighting **inefficiencies or higher costs** in the US market.  
+- **Top 5 revenue-generating regions:** South, Central, Oceania, North, and Southeast Asia, showing **heavy reliance on key markets**.  
+- **Profit growth is inconsistent**, with **2014 showing signs of stagnation despite revenue increases**, suggesting **rising operational expenses or competitive pressure**.  
+- **APAC & EU are the strongest markets** for both revenue and profit, while **the US has extremely low ROI**, indicating **potential challenges in profitability**.  
 
-- **APAC** generates the **highest profit ($531.77K)** but also has the **highest return rate (5.45%)**, whereas **EU** has a **lower profit ($332.26K)** but maintains a significantly **lower return rate (0.85%)**. This indicates that **APAC has a large transaction volume but also a higher risk of returns**.  
 
-- **Return rates have been decreasing year over year**, from **6.36% in 2011 to 5.41% in 2014**, suggesting **improvements in return policies or product/service quality**.  
 
-- **ROI by market** shows that **Canada** performs the best at **13%**, while the **US struggles with only 1%**. Despite having revenue, the **US market's profitability is negligible**, highlighting **inefficiencies or high operational costs**.  
 
-- The **Top 5 regions by revenue** are **South, Central, Oceania, North, and Southeast Asia**, indicating **a strong dependence on a few key markets**.  
 
-- **Profit growth is inconsistent**, with **2014 showing signs of stagnation** despite revenue increasing. This could be due to **rising operational costs or intensified competition reducing profit margins**.  
 
-- **APAC and EU** are the **primary revenue and profit contributors**, but while **EU maintains a low return rate**, **APAC faces a higher risk of returns**. **The US market, despite its presence, has extremely low ROI**, suggesting that **costs may be outweighing the revenue generated**.  
