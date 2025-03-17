@@ -154,16 +154,13 @@ This part is in the dashboard
 
 #### 📌 Key Findings:
 
-- **Total revenue:** $9.48M, **profit:** $1.09M, **ROI:** 12%.  
-- **Revenue nearly doubled from 2011 to 2014**, but **profit growth slowed in 2014**, indicating **increased costs or reduced margins**.  
-- **APAC leads in profit** ($531.77K) but also has **the highest return rate** (5.45%), suggesting **higher transaction volume but also more returns**.  
-- **EU maintains steady profit** ($332.26K) with a **significantly lower return rate** (0.85%), making it a **more stable market**.  
-- **Return rate declined from 6.36% (2011) to 5.41% (2014),** reflecting **potential improvements in product quality or return policies**.  
-- **Canada has the highest ROI (13%)**, while **the US struggles at just 1%**, highlighting **inefficiencies or higher costs** in the US market.  
-- **Top 5 revenue-generating regions:** South, Central, Oceania, North, and Southeast Asia, showing **heavy reliance on key markets**.  
-- **Profit growth is inconsistent**, with **2014 showing signs of stagnation despite revenue increases**, suggesting **rising operational expenses or competitive pressure**.  
-- **APAC & EU are the strongest markets** for both revenue and profit, while **the US has extremely low ROI**, indicating **potential challenges in profitability**.  
-
+- **Total Revenue**: **$9.48M**, **Profit**: **$1.09M**, **ROI**: **12%**. **Revenue grows**, but **profit stagnates in 2014**, indicating **rising costs or declining margins**.  
+- **APAC leads in profit ($531.77K)** but has the **highest return rate (5.45%)**, while **EU profits less ($332.26K) but maintains a lower return rate (0.85%)**.  
+- **Return rates decline** from **6.36% (2011) to 5.41% (2014)**.  
+- **ROI by market**: **Canada tops at 13%**, while **the US lags at 1%**, showing a **profitability gap**.  
+- **Top revenue regions**: **South, Central, Oceania, North, and Southeast Asia**.  
+- **Profit growth fluctuates**, with **2014 showing stagnation despite revenue growth**.  
+- **APAC and EU drive revenue and profit**, but **APAC sees higher return risks**, while **the US struggles with low ROI**.  
 
 
 
