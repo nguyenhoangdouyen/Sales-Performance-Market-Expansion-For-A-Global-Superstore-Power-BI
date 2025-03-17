@@ -160,8 +160,19 @@ This part is in the dashboard
 - Profit growth fluctuates, with 2014 showing stagnation despite revenue growth.  
 - APAC and EU drive revenue and profit, but APAC sees higher return risks, while the US struggles with low ROI.  
 
+#### II. Product Analysis
 
+![Image](https://github.com/user-attachments/assets/caf3fa51-42f1-4acf-9a89-dcfbfa334b8c)
 
+#### 📌 Key Findings:
+- **Top 10 products** by revenue & profit: **Cisco Smartphones, Motorola Smartphones, Canon Copiers** lead.  
+- **Technology** has the **highest revenue** but also a **higher return rate**, impacting profitability.  
+- **Office Supplies** maintains **steady revenue** and **low return rates**, making it a stable category.  
+- **Furniture** has **moderate revenue** but **higher return risks**, likely due to logistics or product defects.  
+- **Technology** revenue increased from **$520K (2011) to $1.25M (2014)**, peaking in **2014**, but profit margins fluctuated due to higher return rates.  
+- **Office Supplies** shows consistent profit growth, driven by **Binders, Paper, Labels**, which have low return rates.  
+- **Furniture** revenue is volatile, with **Tables & Bookcases** having higher return rates, impacting profitability in later years.  
+- **Canon Copiers, Cisco Smartphones, Motorola Smartphones** are among the top revenue-generating products, with **Canon Copiers** delivering the highest per-unit profit.  
 
 
 
