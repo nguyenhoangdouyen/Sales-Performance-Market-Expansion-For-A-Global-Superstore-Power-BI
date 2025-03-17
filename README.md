@@ -111,7 +111,14 @@ The dataset consists of **three tables**:
 
 #### 2️⃣ Define point of view 
 
-![Image](https://github.com/user-attachments/assets/41a981fb-ac37-4ad8-9870-8964f729ec29)
+![Image](https://github.com/user-attachments/assets/3c38e19a-d362-4770-8571-35b1e3d5133f)
 
 #### 3️⃣ Ideate
-![image](https://github.com/user-attachments/assets/66f93774-6ebd-4f38-bab7-0578a4660864)
+
+![Image](https://github.com/user-attachments/assets/b7451df3-d4de-4b81-9f02-94eff089f10c)
+
+#### 4️⃣ Prototype and review
+
+This part is in the dashboard
+
+
