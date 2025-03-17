@@ -1,7 +1,10 @@
 # 📊 Project Title: Global Superstore Sales Performance & Market Expansion | Retail Analytics | Power BI
-Author: Nguyễn Hoàng Đỗ Uyên
-Date: March 2025
-Tools Used: BI
+
+**Author:** Nguyễn Hoàng Đỗ Uyên
+
+**Date:** March 2025
+
+**Tools Used:** BI
 
 ## 📌 Background & Overview
 
