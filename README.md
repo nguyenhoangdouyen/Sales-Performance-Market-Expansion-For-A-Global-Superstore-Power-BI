@@ -130,23 +130,21 @@ This part is in the dashboard
 
 #### 📌 Key Findings:
 
-**Overall Business Performance**
-- Total revenue: **$9.48M**, profit: **$1.09M**, with **25K orders**.  
-- AOV (Average Order Value): **$378.52**, ROI: **11.50%**.  
-- Revenue shows steady growth, but profit does not increase proportionally, especially in **2014, where it stagnates**.  
+**Overall Business Performance**  
+- **Total revenue**: **$9.48M**, **profit**: **$1.09M**, with **25K orders**.  
+- **AOV**: **$378.52**, **ROI**: **11.50%**.  
+- **Revenue grows steadily**, but **profit stagnates in 2014**, indicating **rising costs or declining margins**.  
 
 **Customer Analysis**  
+- **Returning customers outnumber new customers**, reflecting a **loyal customer base**.  
+- **New customer acquisition remains low**, suggesting **limited market expansion**.  
+- **Returning customers contribute most of the revenue**, indicating **repeat purchase behavior and stable cash flow**.  
+- **New customers generate lower revenue**, possibly due to **lower purchase frequency or smaller order values**.  
 
-- Returning customers outnumber new customers, indicating a loyal customer base.  
-- The proportion of new customers remains low, suggesting a need to improve market expansion strategies.  
-- Returning customers contribute the majority of revenue, reflecting repeat purchase behavior and stable cash flow.  
-- New customers generate lower revenue, potentially due to lower purchase frequency or smaller order values.  
-
-**Revenue & Profit Trends by Year**
-
-- Revenue grew from **$1.68M (2011) to $3.21M (2014)**, nearly doubling, but growth slowed down.  
-- Profit growth was inconsistent, with **2014 showing stagnation**, likely due to increased costs or declining profit margins.  
-- ROI fluctuated over the years, with a decline in 2014, indicating profit did not scale proportionally with revenue.  
+**Revenue & Profit Trends by Year**  
+- **Revenue increased from $1.68M (2011) to $3.21M (2014)**, nearly doubling, but **growth slowed down**.  
+- **Profit growth was inconsistent**, with **2014 showing stagnation**, likely due to **increased costs or declining profit margins**.  
+- **ROI declined in 2014**, indicating **profit did not scale proportionally with revenue**.  
 
 #### II. Market Analysis
 
