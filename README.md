@@ -38,11 +38,11 @@ The objective is to:
 
 **🎯Project Outcome:**
 
-- **Revenue grows but profit stagnates**, signaling **rising costs & declining margins**, especially in **2014**.  
-- **APAC & EU** drive **profitability**, but **APAC faces high return risks**, while **the US struggles with low ROI**.  
-- **Technology leads revenue**, but **high return rates** impact margins. **Office Supplies** provide **stable growth**, and **Furniture faces profitability challenges** due to **logistics issues**.  
-- **Canon Copiers** are the **most profitable per unit**, while **Cisco & Motorola Smartphones** need **return management strategies**.  
-- **Market expansion should focus on EU & profitable APAC regions**, while **US operations need profitability optimization**.  
+- Revenue grows but profit stagnates, signaling rising costs & declining margins, especially in 2014.  
+- APAC & EU drive profitability, but APAC faces high return risks, while the US struggles with low ROI.  
+- Technology leads revenue, but high return rates impact margins. Office Supplies provide stable growth, and Furniture faces profitability challenges due to logistics issues.  
+- Canon Copiers are the most profitable per unit, while Cisco & Motorola Smartphones need return management strategies.  
+- Market expansion should focus on EU & profitable APAC regions, while US operations need profitability optimization.  
 
 By aligning market and product strategies, senior management can **prioritize high-potential regions**, **optimize pricing & cost structures**, and **reduce return risks**, ensuring **sustainable revenue & profit growth**.  
 
