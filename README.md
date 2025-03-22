@@ -6,6 +6,15 @@
 
 **Tools Used:** BI
 
+## Table of Contents
+1. [📌 Background & Overview](#background--overview)
+2. [📂 Dataset Description & Data Structure](#dataset-description--data-structure)
+3. [🧠 Design Thinking Process](#design-thinking-process)
+4. [📊 Key Insights & Visualizations](#key-insights--visualizations)
+5. [🔎 Final Conclusion & Recommendation](#final-conclusion--recommendation)
+
+---
+
 ## 📌 Background & Overview
 
 **Objective:**
@@ -108,23 +117,23 @@ The dataset consists of **three tables**:
 
 ![Image](https://github.com/user-attachments/assets/ea814a90-0f20-4b7d-9cb1-929e79163978)
 
-### 🧠 Design Thinking Process
+## 🧠 Design Thinking Process
 
-#### 1️⃣ Empathize
+### 1️⃣ Empathize
 
 ![Image](https://github.com/user-attachments/assets/31ed7661-a5b5-4aa4-a668-b82f7a158f20)
 
 ![Image](https://github.com/user-attachments/assets/d1daa54c-ed85-4390-86a2-ef683459f902)
 
-#### 2️⃣ Define point of view 
+### 2️⃣ Define point of view 
 
 ![Image](https://github.com/user-attachments/assets/3c38e19a-d362-4770-8571-35b1e3d5133f)
 
-#### 3️⃣ Ideate
+### 3️⃣ Ideate
 
 ![Image](https://github.com/user-attachments/assets/b7451df3-d4de-4b81-9f02-94eff089f10c)
 
-#### 4️⃣ Prototype and review
+### 4️⃣ Prototype and review
 
 This part is in the dashboard
 
