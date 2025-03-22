@@ -1,4 +1,6 @@
-# 📊 Project Title: Global Superstore Sales Performance & Market Expansion | Retail Analytics | Power BI
+# 🌍 Sales Performance & Market Expansion For A Global Superstore | Power BI
+
+![image](https://github.com/user-attachments/assets/65df4f32-c787-4986-856f-49ef3f9034b6)
 
 **Author:** Nguyễn Hoàng Đỗ Uyên
 
