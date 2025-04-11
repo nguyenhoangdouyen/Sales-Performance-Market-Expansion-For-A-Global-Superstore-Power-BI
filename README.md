@@ -173,28 +173,6 @@ This part is in the dashboard
 
 ### I. Overview
 
-
-
-### 📌 Key Findings:
-
-**Overall Business Performance**  
-- Total revenue: **$9.48M**, profit: **$1.09M**, with **25K orders**.  
-- AOV: **$378.52**, ROI: **11.50%**.  
-- Revenue grows steadily, but profit stagnates in **2014**, indicating rising costs or declining margins.  
-
-**Customer Analysis**  
-- Returning customers outnumber new customers, reflecting a loyal customer base.  
-- New customer acquisition remains low, suggesting limited market expansion.  
-- Returning customers contribute most of the revenue, indicating repeat purchase behavior and stable cash flow.  
-- New customers generate lower revenue, possibly due to lower purchase frequency or smaller order values.  
-
-**Revenue & Profit Trends by Year**
-- Revenue increased from **$1.68M (2011) to $3.21M (2014)**, nearly doubling, but growth slowed down.  
-- Profit growth was inconsistent, with **2014 showing stagnation**, likely due to increased costs or declining profit margins.  
-- ROI declined in **2014**, indicating profit did not scale proportionally with revenue.  
-
-### II. Market Analysis
-
 ![Image](https://github.com/user-attachments/assets/1de1af20-fa92-4de9-8c2c-7219f043272d)
 
 ### 📌 Key Findings:
@@ -223,19 +201,20 @@ The overview dashboard reveals several key highlights regarding Global Superstor
 - The **Consumer segment accounted for over half of total revenue ($4.9M)**, far ahead of Corporate ($2.9M) and Home Office ($1.7M).
 - Profit margins across segments were fairly consistent (~11–12%), with no standout differences in profitability.
 
-### III. Product Analysis
+### II. Market Analysis
 
-![Image](https://github.com/user-attachments/assets/caf3fa51-42f1-4acf-9a89-dcfbfa334b8c)
+
 
 ### 📌 Key Findings:
-- **Top 10 products** by revenue & profit: **Cisco Smartphones, Motorola Smartphones, Canon Copiers** lead.  
-- **Technology** has the **highest revenue** but also a **higher return rate**, impacting profitability.  
-- **Office Supplies** maintains **steady revenue** and **low return rates**, making it a stable category.  
-- **Furniture** has **moderate revenue** but **higher return risks**, likely due to logistics or product defects.  
-- **Technology** revenue increased from **$520K (2011) to $1.25M (2014)**, peaking in **2014**, but profit margins fluctuated due to higher return rates.  
-- **Office Supplies** shows consistent profit growth, driven by **Binders, Paper, Labels**, which have low return rates.  
-- **Furniture** revenue is volatile, with **Tables & Bookcases** having higher return rates, impacting profitability in later years.  
-- **Canon Copiers, Cisco Smartphones, Motorola Smartphones** are among the top revenue-generating products, with **Canon Copiers** delivering the highest per-unit profit.  
+
+
+
+### III. Product Analysis
+
+
+
+### 📌 Key Findings:
+
 
 
 ## 🔎 Final Conclusion & Recommendation 
