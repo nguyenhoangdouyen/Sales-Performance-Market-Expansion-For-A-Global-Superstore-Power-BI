@@ -173,7 +173,7 @@ This part is in the dashboard
 
 ### I. Overview
 
-![Image](https://github.com/user-attachments/assets/1de1af20-fa92-4de9-8c2c-7219f043272d)
+![Image](https://github.com/user-attachments/assets/ef336a3e-0280-4598-a55f-50fe3e2ac02b)
 
 ### 📌 Key Findings:
 
@@ -203,11 +203,38 @@ The overview dashboard reveals several key highlights regarding Global Superstor
 
 ### II. Market Analysis
 
-
+![Image](https://github.com/user-attachments/assets/23e1875d-8cbf-413b-9c0f-03a707ef6c88)
 
 ### 📌 Key Findings:
 
+#### 3.1 💰 Revenue and Profit Distribution  
+- **Total revenue** reached **$9.48M**, with **APAC** contributing the most (**$2.7M**), followed by **EU ($2.1M)** and **US ($1.8M)**.  
+- **Canada**, despite generating only **$0.1M**, recorded the **highest profit margin (28%)**, indicating strong operational efficiency on a small scale.  
+- In contrast, **EMEA** and **Africa** underperformed with low revenue and slim profit margins (~6–12%), dragging down overall performance.
 
+#### 3.2 📊 Profit Contribution by Market (2011–2014)  
+- Over the 4-year period, **APAC, EU, and US** consistently contributed the most to total profit.  
+- **LATAM** maintained a steady contribution (~15%), while **Africa** and **Canada** made minor, stagnant contributions.
+
+#### 3.3 📈 Revenue Growth by Market & Category (YoY%)  
+- **Canada** led in revenue growth with a **+219.5% YoY increase**, especially in the **Technology category (+63.5%)**.  
+- Emerging markets like **EMEA (+183.15%)** and **Africa (+168.25%)** also saw rapid growth, indicating expansion potential.  
+- Meanwhile, mature markets such as **US, EU, and APAC** showed steady growth (144–157%) but at a slower pace than developing regions.
+
+#### 3.4 👥 Customer Base by Region  
+- **Central, South, and EMEA** had the highest number of **returning customers**, reflecting strong customer loyalty.  
+- **Oceania** stood out with the **largest number of new customers (187)**, indicating growth potential in customer acquisition.
+
+#### 3.5 📦 Order Quantity & Return Rate  
+- **Central** led in both **order volume** and **lowest return rate (~1%)**, highlighting operational efficiency.  
+- Other regions maintained a stable return rate (1–3%) without any alarming figures.
+
+#### 3.6 🧑‍💼 Employee Productivity by Region  
+- **Central** stood out in employee productivity with:  
+  → **Revenue per employee**: $2.07M  
+  → **Profit per employee**: $212K  
+  → **Orders per employee**: 5,237  
+- **Canada**, on the other hand, recorded the lowest across all three indicators, consistent with its low revenue and profit contribution.
 
 ### III. Product Analysis
 
