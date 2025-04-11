@@ -23,10 +23,16 @@
 
 **📖 What is this project about?**
 
-The objective is to:
-- Optimize market expansion strategies.
-- Identify strategic products for growth.
-- Provide data-driven insights to improve decision-making.
+This project aims to build a **Power BI dashboard** using the *Global Superstore Sales* dataset, which includes data on transactions (**Orders**), sales representatives (**People**), and product returns (**Returns**).
+The goal is to provide senior managers with **data-driven insights** to:
+
+- **Understand current business performance**
+ 
+- **Optimize market expansion strategies**
+
+- **Identify strategic products for growth**
+
+- **Support better decision-making to drive revenue and ROI**
 
 
 **👤 Who is this project for?**
@@ -70,13 +76,10 @@ By aligning market and product strategies, senior management can **prioritize hi
 #### 1️⃣ **Tables Used:**  
 The dataset consists of **three tables**:  
 
-- 🛒 **Orders** – Contains detailed transaction and customer information (**51,290 records**).  
-- 🔄 **Returns** – Stores data on returned orders.  
-- 👥 **People** – Holds information about sales representatives.  
+- 🛒 **Orders** – Contains detailed transaction and customer information (**51,290 records**).
 
-#### **2️⃣ Table Schema & Data Snapshot**
-
-**Table 1**: Orders 
+<details>
+<summary>📦 <strong>Table 1: Orders</strong></summary>
 
 | Column Name       | Data Type   | Description                              |
 |------------------|------------|------------------------------------------|
@@ -101,23 +104,40 @@ The dataset consists of **three tables**:
 | `Quantity`     | `INT`       | Number of items ordered.                |
 | `Profit`       | `DECIMAL`   | Profit earned from the order.           |
 
-**Table 2**: People
+</details>
+
+- 🔄 **Returns** – Stores data on returned orders.
+
+<details>
+<summary>↩️ <strong>Table 3: Returns</strong></summary>
+
+| Column Name  | Data Type | Description |
+|--------------|-----------|-------------|
+| `Returned`   | `VARCHAR` | Indicates whether the order was returned (e.g., 'Yes' or 'No'). |
+| `Order ID`   | `VARCHAR` | Unique identifier for each order. |
+
+</details>
+  
+- 👥 **People** – Holds information about sales representatives.
+
+<details>
+<summary>🧑‍💼 <strong>Table 2: People</strong></summary>
 
 | Column Name | Data Type | Description |
-|-------------|----------|-------------|
+|-------------|-----------|-------------|
 | `Person`    | `VARCHAR` | Name of the salesperson. |
 | `Region`    | `VARCHAR` | Geographic region where the salesperson operates. |
 
-**Table 3**: Returns
+</details>
 
-| Column Name  | Data Type | Description |
-|-------------|----------|-------------|
-| `Returned`  | `VARCHAR` | Indicates whether the order was returned (e.g., 'Yes' or 'No'). |
-| `Order ID`  | `VARCHAR` | Unique identifier for each order. |
-
-#### 3️⃣ Data Relationships:
+#### 2️⃣ Data Relationships:
 
 ![Image](https://github.com/user-attachments/assets/ea814a90-0f20-4b7d-9cb1-929e79163978)
+
+| **From Table** | **To Table** | **Join Key**   | **Relationship Type**                                  |
+|------------|----------|------------|----------------------------------------------------|
+| `Orders`   | `People` | `Region`   | Many-to-One (multiple orders belong to one region) |
+| `Orders`   | `Returns`| `Order ID` | One-to-One or Left Join (not all orders are returned) |
 
 ## 🧠 Design Thinking Process
 
