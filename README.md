@@ -79,7 +79,7 @@ The dataset consists of **three tables**:
 - 🛒 **Orders** – Contains detailed transaction and customer information (**51,290 records**).
 
 <details>
-<summary>📦 <strong>Table 1: Orders</strong></summary>
+<summary> <strong>Table 1: Orders</strong></summary>
 
 | Column Name       | Data Type   | Description                              |
 |------------------|------------|------------------------------------------|
@@ -109,7 +109,7 @@ The dataset consists of **three tables**:
 - 🔄 **Returns** – Stores data on returned orders.
 
 <details>
-<summary>↩️ <strong>Table 3: Returns</strong></summary>
+<summary> <strong>Table 3: Returns</strong></summary>
 
 | Column Name  | Data Type | Description |
 |--------------|-----------|-------------|
@@ -121,7 +121,7 @@ The dataset consists of **three tables**:
 - 👥 **People** – Holds information about sales representatives.
 
 <details>
-<summary>🧑‍💼 <strong>Table 2: People</strong></summary>
+<summary> <strong>Table 2: People</strong></summary>
 
 | Column Name | Data Type | Description |
 |-------------|-----------|-------------|
@@ -143,9 +143,13 @@ The dataset consists of **three tables**:
 
 ### 1️⃣ Empathize
 
-![Image](https://github.com/user-attachments/assets/31ed7661-a5b5-4aa4-a668-b82f7a158f20)
+![Image](https://github.com/user-attachments/assets/ff5ae83c-f1c5-4dba-b975-cf68294b0518)
 
-![Image](https://github.com/user-attachments/assets/d1daa54c-ed85-4390-86a2-ef683459f902)
+![Image](https://github.com/user-attachments/assets/fe8ffc6a-f69c-4d6e-b66e-0b7721097c6c)
+
+![Image](https://github.com/user-attachments/assets/247419e0-710f-4791-b49b-6a434444df72)
+
+![Image](https://github.com/user-attachments/assets/f279dd3a-a5d5-4823-950b-443523ad619f)
 
 ### 2️⃣ Define point of view 
 
