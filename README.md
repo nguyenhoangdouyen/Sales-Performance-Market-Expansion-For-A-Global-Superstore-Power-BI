@@ -109,7 +109,7 @@ The dataset consists of **three tables**:
 - 🔄 **Returns** – Stores data on returned orders.
 
 <details>
-<summary> <strong>Table 3: Returns</strong></summary>
+<summary> <strong>Table 2: Returns</strong></summary>
 
 | Column Name  | Data Type | Description |
 |--------------|-----------|-------------|
@@ -121,7 +121,7 @@ The dataset consists of **three tables**:
 - 👥 **People** – Holds information about sales representatives.
 
 <details>
-<summary> <strong>Table 2: People</strong></summary>
+<summary> <strong>Table 3: People</strong></summary>
 
 | Column Name | Data Type | Description |
 |-------------|-----------|-------------|
@@ -173,7 +173,7 @@ This part is in the dashboard
 
 ### I. Overview
 
-![Image](https://github.com/user-attachments/assets/7688db58-8ca6-4cde-aad0-8a6c324ff7ea)
+
 
 ### 📌 Key Findings:
 
@@ -195,17 +195,33 @@ This part is in the dashboard
 
 ### II. Market Analysis
 
-![Image](https://github.com/user-attachments/assets/9659dfdb-e206-4234-82ef-ec67a584f1cf)
+![Image](https://github.com/user-attachments/assets/1de1af20-fa92-4de9-8c2c-7219f043272d)
 
 ### 📌 Key Findings:
 
-- Total Revenue: **$9.48M**, Profit: **$1.09M**, ROI: **12%**. Revenue grows, but profit stagnates in 2014, indicating rising costs or declining margins.  
-- APAC leads in profit (**$531.77K**) but has the highest return rate (**5.45%**), while EU profits less (**$332.26K**) but maintains a lower return rate (**0.85%**).  
-- Return rates decline from **6.36% (2011) to 5.41% (2014)**.  
-- ROI by market: Canada tops at **13%**, while the US lags at **1%**, showing a profitability gap.  
-- Top revenue regions: South, Central, Oceania, North, and Southeast Asia.  
-- Profit growth fluctuates, with 2014 showing stagnation despite revenue growth.  
-- APAC and EU drive revenue and profit, but APAC sees higher return risks, while the US struggles with low ROI.  
+The overview dashboard reveals several key highlights regarding Global Superstore’s overall business performance:
+
+#### 🚀 1. Strong growth in both Revenue & Profit
+- **Total revenue** reached **$9.48M**, a significant **+51.3% increase** compared to last year.
+- **Profit** also rose proportionally to **$1.09M**, while the **profit margin remained stable at 12%**.
+- Despite strong top-line growth, the profit margin did not improve — indicating rising costs or unchanged operational efficiency.
+
+#### 👥 2. Heavy reliance on returning customers
+- While **orders increased by 51.7%**, the number of **unique buyers only grew by 1%**.
+- **99.97% of revenue came from existing customers**, showing an extremely loyal customer base but limited new acquisition.
+
+#### 🌍 3. Market & category performance varies
+- **APAC, EU, and US** contributed the most to overall revenue.
+- However, **Canada** stood out with the **highest profit margin (28%)**, despite lower revenue.
+- On the other hand, **EMEA and Africa** underperformed with low revenue and slim profit margins.
+
+#### 📦 4. Technology leads product category growth
+- The **Technology category** showed the most noticeable revenue growth over the previous year.
+- **Office Supplies** and **Furniture** experienced minor increases but at a slower pace.
+
+#### 🏠 5. Consumer segment dominates
+- The **Consumer segment accounted for over half of total revenue ($4.9M)**, far ahead of Corporate ($2.9M) and Home Office ($1.7M).
+- Profit margins across segments were fairly consistent (~11–12%), with no standout differences in profitability.
 
 ### III. Product Analysis
 
