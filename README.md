@@ -55,13 +55,13 @@ The goal is to provide senior managers with **data-driven insights** to:
 
 **🎯Project Outcome:**
 
-- Revenue grows but profit stagnates, signaling rising costs & declining margins, especially in 2014.  
-- APAC & EU drive profitability, but APAC faces high return risks, while the US struggles with low ROI.  
-- Technology leads revenue, but high return rates impact margins. Office Supplies provide stable growth, and Furniture faces profitability challenges due to logistics issues.  
-- Canon Copiers are the most profitable per unit, while Cisco & Motorola Smartphones need return management strategies.  
-- Market expansion should focus on EU & profitable APAC regions, while US operations need profitability optimization.  
+- Revenue increased significantly, but profit margin remained flat, indicating rising costs and limited operational efficiency gains.  
+- Canada emerged as a high-margin market (28%) despite low revenue, while Africa and EMEA showed the fastest YoY growth, revealing expansion potential.  
+- Oceania and Africa attracted the most new customers, whereas most revenue still came from loyal, returning buyers.  
+- Technology led revenue growth and profitability, but return rates in some tech SKUs (e.g., Cisco, Motorola) impacted margins.  
+- Products like Copiers delivered the highest profit per unit, while low-performing items (e.g., Suppliers, Furnishings) diluted overall profitability.
 
-By aligning market and product strategies, senior management can **prioritize high-potential regions**, **optimize pricing & cost structures**, and **reduce return risks**, ensuring **sustainable revenue & profit growth**.  
+By aligning regional and product strategies, senior managers can **scale in high-margin markets**, **invest in scalable profitable categories**, and **optimize acquisition and return management**, driving **sustainable long-term growth**.
 
 ## 📂 Dataset Description & Data Structure
 
@@ -299,7 +299,7 @@ The overview dashboard reveals several key highlights regarding Global Superstor
 - **Storage** has high order volume but **low profit margin**
 
 **✅ Recommendation:**  
-- **Continue scaling Technology, especially Phones & Copiers**, as they are high in both revenue and margin  
+- **Continue scaling Technology**, especially top products like **Canon Copiers** and **Motorola/Cisco Phones**, which show strong profit per unit  
 - **Run marketing campaigns for Accessories, Art, and Labels**, capitalizing on high margins and bundling them with bestsellers  
 - **Consider delisting or downsizing Suppliers, Furnishings, and Tables** due to poor financial performance  
 - **Review pricing and operational costs for Storage**, as strong sales are not translating to strong profits  
