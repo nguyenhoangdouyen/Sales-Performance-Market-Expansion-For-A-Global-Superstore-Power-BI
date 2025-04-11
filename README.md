@@ -179,25 +179,25 @@ This part is in the dashboard
 
 The overview dashboard reveals several key highlights regarding Global Superstore’s overall business performance:
 
-#### 🚀 1. Strong growth in both Revenue & Profit
+#### 🚀 Strong growth in both Revenue & Profit
 - **Total revenue** reached **$9.48M**, a significant **+51.3% increase** compared to last year.
 - **Profit** also rose proportionally to **$1.09M**, while the **profit margin remained stable at 12%**.
 - Despite strong top-line growth, the profit margin did not improve — indicating rising costs or unchanged operational efficiency.
 
-#### 👥 2. Heavy reliance on returning customers
+#### 👥 Heavy reliance on returning customers
 - While **orders increased by 51.7%**, the number of **unique buyers only grew by 1%**.
 - **99.97% of revenue came from existing customers**, showing an extremely loyal customer base but limited new acquisition.
 
-#### 🌍 3. Market & category performance varies
+#### 🌍 Market & category performance varies
 - **APAC, EU, and US** contributed the most to overall revenue.
 - However, **Canada** stood out with the **highest profit margin (28%)**, despite lower revenue.
 - On the other hand, **EMEA and Africa** underperformed with low revenue and slim profit margins.
 
-#### 📦 4. Technology leads product category growth
+#### 📦 Technology leads product category growth
 - The **Technology category** showed the most noticeable revenue growth over the previous year.
 - **Office Supplies** and **Furniture** experienced minor increases but at a slower pace.
 
-#### 🏠 5. Consumer segment dominates
+#### 🏠 Consumer segment dominates
 - The **Consumer segment accounted for over half of total revenue ($4.9M)**, far ahead of Corporate ($2.9M) and Home Office ($1.7M).
 - Profit margins across segments were fairly consistent (~11–12%), with no standout differences in profitability.
 
@@ -207,29 +207,29 @@ The overview dashboard reveals several key highlights regarding Global Superstor
 
 ### 📌 Key Findings:
 
-#### 3.1 💰 Revenue and Profit Distribution  
+#### 💰 Revenue and Profit Distribution  
 - **Total revenue** reached **$9.48M**, with **APAC** contributing the most (**$2.7M**), followed by **EU ($2.1M)** and **US ($1.8M)**.  
 - **Canada**, despite generating only **$0.1M**, recorded the **highest profit margin (28%)**, indicating strong operational efficiency on a small scale.  
 - In contrast, **EMEA** and **Africa** underperformed with low revenue and slim profit margins (~6–12%), dragging down overall performance.
 
-#### 3.2 📊 Profit Contribution by Market (2011–2014)  
+#### 📊 Profit Contribution by Market (2011–2014)  
 - Over the 4-year period, **APAC, EU, and US** consistently contributed the most to total profit.  
 - **LATAM** maintained a steady contribution (~15%), while **Africa** and **Canada** made minor, stagnant contributions.
 
-#### 3.3 📈 Revenue Growth by Market & Category (YoY%)  
+#### 📈 Revenue Growth by Market & Category (YoY%)  
 - **Canada** led in revenue growth with a **+219.5% YoY increase**, especially in the **Technology category (+63.5%)**.  
 - Emerging markets like **EMEA (+183.15%)** and **Africa (+168.25%)** also saw rapid growth, indicating expansion potential.  
 - Meanwhile, mature markets such as **US, EU, and APAC** showed steady growth (144–157%) but at a slower pace than developing regions.
 
-#### 3.4 👥 Customer Base by Region  
+#### 👥 Customer Base by Region  
 - **Central, South, and EMEA** had the highest number of **returning customers**, reflecting strong customer loyalty.  
 - **Oceania** stood out with the **largest number of new customers (187)**, indicating growth potential in customer acquisition.
 
-#### 3.5 📦 Order Quantity & Return Rate  
+#### 📦 Order Quantity & Return Rate  
 - **Central** led in both **order volume** and **lowest return rate (~1%)**, highlighting operational efficiency.  
 - Other regions maintained a stable return rate (1–3%) without any alarming figures.
 
-#### 3.6 🧑‍💼 Employee Productivity by Region  
+#### 🧑‍💼 Employee Productivity by Region  
 - **Central** stood out in employee productivity with:  
   → **Revenue per employee**: $2.07M  
   → **Profit per employee**: $212K  
@@ -238,48 +238,48 @@ The overview dashboard reveals several key highlights regarding Global Superstor
 
 ### III. Product Analysis
 
-
+![Image](https://github.com/user-attachments/assets/aa9b8966-1db7-4a2b-afbf-5d2e8034b6ee)
 
 ### 📌 Key Findings:
 
+#### 📌 Quadrant Analysis by Sub-Category  
+- This chart gives the most comprehensive overview by classifying product performance across two axes: **Revenue** and **Profit Margin**.  
+- **Copiers** and **Phones** are top performers, sitting in the top-right quadrant with **high revenue** and **strong profit margins** – clear leaders.  
+- **Accessories**, **Art**, and **Labels** have **high profit margins** but **low revenue** – they’re **profitable but under-scaled**, showing potential for growth.  
+- **Chairs**, **Bookcases**, and **Storage** show **decent revenue** but **low margins**, meaning they sell well but don’t earn much.  
+- Bottom-left quadrant features the underperformers: **Supplier** and **Furnishings** – **low revenue + low margins**, likely dragging down overall performance.
 
+#### 💰 Revenue and Profit Margin by Sub-Category  
+- In terms of revenue, **Phones ($1.4M)**, **Chairs**, **Copiers**, and **Tables** are leading.  
+- Looking at profit margin, standouts include: **Accessories (26%)**, **Labels (23%)**, and **Art (18%)** – small but highly profitable.  
+- Meanwhile, **Tables (-7%)** is underperforming with minimal or negative profits.
+
+#### 📦 Orders, Customers, and Return Rate by Sub-Category  
+- **Storage** has the highest number of orders (**216**), followed by **Phones (91)** and **Chairs (86)** – aligning with high-revenue categories.  
+- But high order count ≠ high profitability: **Storage**, for example, has low profit margins despite strong sales.  
+- **Labels (10%)**, **Fasteners (6%)**, and **Paper (5%)** have high return rates – red flags for quality or customer expectation issues.  
+- In contrast, categories like **Art**, **Appliances**, and **Binders** have **near-zero return rates**, indicating a solid customer experience.
+
+#### 🚚 Revenue and Profit by Ship Mode  
+- **Standard Class** dominates with **$5.7M in revenue**, far surpassing other shipping modes.  
+- **First Class** and **Second Class** bring in significantly less revenue (**$1.4M**, **$1.9M**) and lower profits – suggesting most customers prioritize cost over speed.
+
+#### 🪑 Profit by Segment and Category  
+- **Consumer Segment** generates the highest profit (**$0.28M**), outperforming Corporate and Home Office.  
+- Within each segment, **Technology** consistently delivers the most profit, especially for Consumer and Corporate.  
+- **Office Supplies**, however, yield lower profit margins – especially in the Home Office segment, which is barely profitable.
+
+#### 🏆 Top 10 Products by Profit  
+- Products from **Canon imageCLASS 2200 Advance Copier, Motorola Smart Phone Fullsize, Cisco Smart Full Size**, etc., top the profit chart – mostly from the **Technology** category, indicating high value with fewer units.  
+- A few Furniture and Office Supplies products made the list, but they lag behind their tech counterparts in profitability.
 
 ## 🔎 Final Conclusion & Recommendation 
 
 ## ✨ Conclusion: 
 
-#### 🟡 **Revenue & Profit Performance**  
-- **Revenue** has **grown steadily**, but **profit** did not scale accordingly, suggesting **rising costs** or **declining margins**.  
-- Some **markets** generate strong **revenue** but struggle with **low profitability**, highlighting inefficiencies in **cost management** or **pricing strategies**.  
 
-#### 🌍📊 **Market & Customer Trends**  
-- **APAC** and the **EU** are **key revenue drivers**, but **APAC** faces **higher return risks**, while the **US** struggles with **low ROI**.  
-- The business relies heavily on **returning customers**, indicating **strong loyalty** but also **limited market expansion**.  
-
-#### 🏷️📦 **Product & Category Trends**  
-- **Technology** is the **dominant revenue driver** but faces **profitability challenges** due to **high return rates**.  
-- **Office Supplies** provide **stable revenue** with **low returns**, making it a **reliable category**.  
-- **Furniture** is **riskier**, with **fluctuating revenue** and **high return rates**, likely due to **logistical challenges** or **product defects**.  
-- **High-margin products**, like **Canon Copiers**, contribute significantly to **profitability**, while **smartphones** generate **strong revenue** but face **higher return risks**.  
 
 ## ✨ Recommendation: 
-
-#### 🌍 **Market Expansion Strategy**  
-- **Canada & EU**: Focus on **expansion & retention** since these markets have **high ROI & low return rates**. Strengthen **regional partnerships** and increase investment in **Office Supplies**, which show **steady demand & profitability**.  
-- **US**: Address **low ROI** by **optimizing costs** (e.g., logistics & discount strategies) and refining **pricing models**. Strengthen **customer retention programs** to maximize lifetime value.  
-- **APAC**: Despite **high revenue**, the market struggles with **high return rates**. Improve **product quality control** and streamline **after-sales service** to enhance profitability. Consider **localized marketing strategies** for better engagement.  
-- **LATAM & Canada**: These regions contribute **lower revenue**, so explore **targeted promotions** or **bundled product offers** to increase order volume.  
-
-#### 🏆 **Strategic Product Selection**  
-- **Canon Copiers**: Prioritize due to **high per-unit profit** and **consistent demand**. Expand marketing efforts in **underperforming regions** to increase sales.  
-- **Cisco Smartphones**: A **top revenue driver** but faces **return challenges**. Implement **extended warranties** and **repair programs** to improve customer trust and reduce returns.  
-- **Office Supplies (Binders & Paper)**: A **stable revenue stream** with **low return rates**. Leverage as a **cross-selling opportunity** with **high-margin tech products** to boost profitability.  
-
-#### 🔄 **Customer Growth & Retention**  
-- **New Customer Acquisition**: Invest in **targeted marketing campaigns** in **LATAM & Canada** to drive sales growth. Offer **introductory discounts** or **loyalty incentives**.  
-- **Returning Customers**: Strengthen **loyalty programs** with **exclusive discounts** on repeat purchases. Promote **higher-order value bundles** to maximize customer lifetime value.  
-- **Cross-sell & Upsell**: Use data-driven recommendations to suggest complementary products (e.g., **Office Chairs with Desks**, **Paper with Printers**).  
-
 
 
 
