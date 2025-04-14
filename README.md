@@ -224,22 +224,22 @@ This part is in the dashboard
 
 ### 📌 Key Findings:
 
-#### 📌 Quadrant Analysis by Sub-Category
+**Quadrant Analysis by Sub-Category**
 - **Copiers** and **Phones** are the leaders with high **revenue** and **strong profit margins**. **Accessories**, **Art**, and **Labels** are **profitable but under-scaled**, showing growth potential. **Chairs**, **Bookcases**, and **Storage** perform well in revenue but have **low profit margins**. **Supplier** and **Furnishings** are underperforming with both **low revenue** and **low margins**.
 
-#### 💰 Revenue and Profit Margin by Sub-Category
+**Revenue and Profit Margin by Sub-Category**
 - **Phones ($1.4M)**, **Chairs**, **Copiers**, and **Tables** lead in **revenue**. **Accessories (26%)**, **Labels (23%)**, and **Art (18%)** stand out for **profit margins**. **Tables (-7%)** are underperforming with negative profit margins.
 
-#### 📦 Orders, Customers, and Return Rate by Sub-Category
+**Orders, Customers, and Return Rate by Sub-Category**
 - **Storage** leads in **orders (216)** but has low profit margins. **Labels (10%)**, **Fasteners (6%)**, and **Paper (5%)** show high **return rates**, raising potential quality concerns. Categories like **Art** and **Appliances** have **low return rates**, indicating high customer satisfaction.
 
-#### 🚚 Revenue and Profit by Ship Mode
+**Revenue and Profit by Ship Mode**
 - **Standard Class** dominates with **$5.7M in revenue**, while **First Class** and **Second Class** bring in significantly less. → Shows that **most customers prioritize cost over speed**.
 
-#### 🪑 Profit by Segment and Category
+**Profit by Segment and Category**
 - **Consumer Segment** generates the highest profit (**$0.28M**), especially in **Technology**. **Office Supplies** yield lower profit margins, especially in **Home Office**.
 
-#### 🏆 Top 10 Products by Profit
+**Top 10 Products by Profit**
 - **Canon imageCLASS 2200**, **Motorola Smart Phone**, and **Cisco Smart Full Size** top the profit list, mainly from **Technology**. → **Furniture** and **Office Supplies** products lag behind in profitability.
 
 ## 🔎 Final Conclusion & Recommendation 
