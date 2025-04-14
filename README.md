@@ -173,34 +173,35 @@ This part is in the dashboard
 
 ### I. Overview
 
-![Image](https://github.com/user-attachments/assets/ef336a3e-0280-4598-a55f-50fe3e2ac02b)
+![Image](https://github.com/user-attachments/assets/3e58ade5-ba20-461a-b6ba-b670e820d368)
 
 ### 📌 Key Findings:
 
-The overview dashboard reveals several key highlights regarding Global Superstore’s overall business performance:
+### 🚀 Revenue & Profit Surged
+Revenue reached **$9.48M** and profit hit **$1.09M**, both increasing **51.3% YoY**.  
+→ Growth was primarily driven by increased order volume, not by improved operational efficiency (profit margin remained at **12%**).
 
-#### 🚀 Strong growth in both Revenue & Profit
-- **Total revenue** reached **$9.48M**, a significant **+51.3% increase** compared to last year.
-- **Profit** also rose proportionally to **$1.09M**, while the **profit margin remained stable at 12%**.
-- Despite strong top-line growth, the profit margin did not improve — indicating rising costs or unchanged operational efficiency.
+### 📈 Customer Base Expands Steadily
+Customer count grew from **1303 (2011)** to **1501 (2014)**, with a stable **~1% return rate**.  
+→ Indicates strong customer retention and consistent service quality over time.
 
-#### 👥 Heavy reliance on returning customers
-- While **orders increased by 51.7%**, the number of **unique buyers only grew by 1%**.
-- **99.97% of revenue came from existing customers**, showing an extremely loyal customer base but limited new acquisition.
+### 🌎 Canada Shows Highest Profit Margin
+**Canada** achieved a **28% profit margin** despite low revenue.  
+**US, EU, and APAC** contributed the highest revenue overall.  
+→ Suggests Canada has high profitability potential, while the US remains the core market in terms of scale.
 
-#### 🌍 Market & category performance varies
-- **APAC, EU, and US** contributed the most to overall revenue.
-- However, **Canada** stood out with the **highest profit margin (28%)**, despite lower revenue.
-- On the other hand, **EMEA and Africa** underperformed with low revenue and slim profit margins.
+### 🧾 Consumer Segment Leads
+The **Consumer segment** generated **$4.9M**, the highest among all segments, with a stable **11–12% margin**.  
+→ Indicates steady demand and a key role in driving overall growth.
 
-#### 📦 Technology leads product category growth
-- The **Technology category** showed the most noticeable revenue growth over the previous year.
-- **Office Supplies** and **Furniture** experienced minor increases but at a slower pace.
+### 💻 Technology Drives Growth
+**Technology products** generated the highest revenue across all regions.  
+→ Suggests customers have a strong preference for tech products over other categories.
 
-#### 🏠 Consumer segment dominates
-- The **Consumer segment accounted for over half of total revenue ($4.9M)**, far ahead of Corporate ($2.9M) and Home Office ($1.7M).
-- Profit margins across segments were fairly consistent (~11–12%), with no standout differences in profitability.
-
+### 🛒 Growth Driven by Existing Customers
+**Buyer count** increased only **1%**, but **orders surged 51.7%**;  
+**Average Order Value (AOV)** slightly decreased by **-0.3%**.  
+→ Indicates strong repeat purchase behavior, with smaller but more frequent orders.
 ### II. Market Analysis
 
 ![Image](https://github.com/user-attachments/assets/23e1875d-8cbf-413b-9c0f-03a707ef6c88)
