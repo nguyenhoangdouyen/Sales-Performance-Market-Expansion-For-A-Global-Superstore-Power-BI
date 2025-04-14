@@ -243,60 +243,12 @@ This part is in the dashboard
 
 ## 🔎 Final Conclusion & Recommendation 
 
-### 📈 1. Market Expansion Strategy
-
-### 🔍 Insight:
-- **Canada** has the highest **profit margin (28%)** despite low revenue.
-- **Africa** and **EMEA** show exceptionally high **revenue growth** (+168% / +183%).
-- **Oceania** & **Africa** have the highest number of **new customers**.
-
-### ✅ Recommendation:
-- **Expand selectively in Canada** to maximize profitability.
-- **Increase investment in Africa and EMEA** to capture growth.
-- **Focus promotions in Oceania & Africa** to drive new customer growth.
-
----
-
-### 🛒 2. Product Portfolio Optimization
-
-### 🔍 Insight:
-- **Technology** leads in both **revenue** and **profit**.
-- **Accessories**, **Art**, and **Labels** are high-margin but **low-revenue**.
-- **Suppliers** and **Furnishings** underperform in both **revenue** and **profit**.
-- **Tables** bring high **revenue** but incur **losses (-7%)**.
-- **Storage** has high **orders** but **low profit margin**.
-
-### ✅ Recommendation:
-- **Scale Technology**, focusing on high-margin products like **Canon Copiers** and **Motorola/Cisco Phones**.
-- **Market Accessories**, **Art**, and **Labels**, leveraging high margins.
-- **Consider delisting Suppliers**, **Furnishings**, and **Tables** due to poor performance.
-- **Review Storage pricing** and costs for better profitability.
-
----
-
-### 👥 3. Customer Strategy
-
-### 🔍 Insight:
-- **99.97%** of revenue comes from **existing customers**.
-- **Oceania** & **Africa** have the largest **new customer base**.
-
-### ✅ Recommendation:
-- **Focus on customer retention** with loyalty and upselling initiatives.
-- **Expand acquisition efforts in Oceania & Africa** to capture growth potential.
-
----
-
-### ⚙️ 4. Operational Efficiency
-
-### 🔍 Insight:
-- **US**, **EU**, and **APAC** show slower growth.
-- **Central region** leads in **employee productivity** ($2.07M per employee).
-- **Standard Class** dominates **shipping revenue**.
-
-### ✅ Recommendation:
-- **Optimize operations** in mature markets to maintain margins.
-- **Replicate Central region's model** in other regions.
-- **Focus on Standard Class shipping** and audit other modes for savings.
+| **Strategy**                     | **Insight**                                                                                                                                                       | **Recommendation**                                                                                                                                                                      |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1. Market Expansion Strategy** | - **Canada** has the highest **profit margin (28%)** despite low revenue. <br> - **Africa** and **EMEA** show exceptionally high **revenue growth** (+168% / +183%). <br> - **Oceania** & **Africa** have the highest number of **new customers**. | - **Expand selectively in Canada** to maximize profitability. <br> - **Increase investment in Africa and EMEA** to capture growth. <br> - **Focus promotions in Oceania & Africa** to drive new customer growth. |
+| **2. Product Portfolio Optimization** | - **Technology** leads in both **revenue** and **profit**. <br> - **Accessories**, **Art**, and **Labels** are high-margin but **low-revenue**. <br> - **Suppliers** and **Furnishings** underperform in both **revenue** and **profit**. <br> - **Tables** bring high **revenue** but incur **losses (-7%)**. <br> - **Storage** has high **orders** but **low profit margin**. | - **Scale Technology**, focusing on high-margin products like **Canon Copiers** and **Motorola/Cisco Phones**. <br> - **Market Accessories**, **Art**, and **Labels**, leveraging high margins. <br> - **Consider delisting Suppliers**, **Furnishings**, and **Tables** due to poor performance. <br> - **Review Storage pricing** and costs for better profitability. |
+| **3. Customer Strategy**        | - **99.97%** of revenue comes from **existing customers**. <br> - **Oceania** & **Africa** have the largest **new customer base**.                                                      | - **Focus on customer retention** with loyalty and upselling initiatives. <br> - **Expand acquisition efforts in Oceania & Africa** to capture growth potential. |
+| **4. Operational Efficiency**   | - **US**, **EU**, and **APAC** show slower growth. <br> - **Central region** leads in **employee productivity** ($2.07M per employee). <br> - **Standard Class** dominates **shipping revenue**. | - **Optimize operations** in mature markets to maintain margins. <br> - **Replicate Central region's model** in other regions. <br> - **Focus on Standard Class shipping** and audit other modes for savings. |
 
 
 
