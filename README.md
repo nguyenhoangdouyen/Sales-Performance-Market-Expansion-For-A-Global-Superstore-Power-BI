@@ -178,22 +178,22 @@ This part is in the dashboard
 ### 📌 Key Findings:
 
 #### 🚀 Revenue & Profit Surged
-- Revenue reached **$9.48M** and profit hit **$1.09M**, both increasing **51.3% YoY**. → Growth was primarily driven by increased order volume, not by improved operational efficiency (profit margin remained at **12%**).
+- Revenue reached **$9.48M** and profit hit **$1.09M**, both increasing **51.3% YoY**. → **Growth** was primarily driven by **increased order volume**, **not by improved operational efficiency** (profit margin remained at **12%**).
 
 #### 📈 Customer Base Expands Steadily
-- Customer count grew from **1303 (2011)** to **1501 (2014)**, with a stable **~1% return rate**. → Indicates strong customer retention and consistent service quality over time.
+- Customer count grew from **1303 (2011)** to **1501 (2014)**, with a stable **~1% return rate**. → Indicates **strong customer retention** and consistent service quality over time.
 
 #### 🌎 Canada Shows Highest Profit Margin
-- **Canada** achieved a **28% profit margin** despite low revenue. **US, EU, and APAC** contributed the highest revenue overall. → Suggests Canada has high profitability potential, while the US remains the core market in terms of scale.
+- **Canada** achieved a **28% profit margin** despite low revenue. **US, EU, and APAC** contributed the highest revenue overall. → Suggests **Canada** has high **profitability potential**, while the **US remains the core market** in terms of scale.
 
 #### 🧾 Consumer Segment Leads
-- The **Consumer segment** generated **$4.9M**, the highest among all segments, with a stable **11–12% margin**. → Indicates steady demand and a key role in driving overall growth.
+- The **Consumer segment** generated **$4.9M**, the highest among all segments, with a stable **11–12% margin**. → Indicates **steady demand** and a key role in **driving overall growth**.
 
 #### 💻 Technology Drives Growth
-- **Technology products** generated the highest revenue across all regions.  → Suggests customers have a strong preference for tech products over other categories.
+- **Technology products** generated the highest revenue across all regions.  → Suggests **customers have a strong preference** for **tech products** over other categories.
 
 #### 🛒 Growth Driven by Existing Customers
-- **Buyer count** increased only **1%**, but **orders surged 51.7%**; **Average Order Value (AOV)** slightly decreased by **-0.3%**. → Indicates strong repeat purchase behavior, with smaller but more frequent orders.
+- **Buyer count** increased only **1%**, but **orders surged 51.7%**; **Average Order Value (AOV)** slightly decreased by **-0.3%**. → Indicates **strong repeat purchase behavior**, with smaller but more frequent orders.
 #### II. Market Analysis
 
 ![Image](https://github.com/user-attachments/assets/b3e4cabf-ab5a-4c07-a8b3-1d6305b8d15c)
@@ -246,57 +246,58 @@ This part is in the dashboard
 
 ### 📈 1. Market Expansion Strategy
 
-**🔍 Insight:**  
-- Canada has the **highest profit margin (28%)** despite low revenue  
-- Africa and EMEA recorded **exceptionally high revenue growth** (+168% / +183%)  
-- Oceania & Africa have **the highest number of new customers**
+### 🔍 Insight:
+- **Canada** has the highest **profit margin (28%)** despite low revenue.
+- **Africa** and **EMEA** show exceptionally high **revenue growth** (+168% / +183%).
+- **Oceania** & **Africa** have the highest number of **new customers**.
 
-**✅ Recommendation:**  
-- **Prioritize controlled expansion in Canada** to maximize profitability  
-- **Increase marketing and logistics investment in Africa and EMEA** to tap into growth potential  
-- **Focus promotional efforts in Oceania & Africa** to further grow the new customer base  
+### ✅ Recommendation:
+- **Expand selectively in Canada** to maximize profitability.
+- **Increase investment in Africa and EMEA** to capture growth.
+- **Focus promotions in Oceania & Africa** to drive new customer growth.
 
 ---
 
 ### 🛒 2. Product Portfolio Optimization
 
-**🔍 Insight:**  
-- **Technology** category leads in both revenue and profit  
-- **Accessories, Art, and Labels** have high margins but low revenue  
-- **Suppliers and Furnishings** perform poorly in both revenue and profit  
-- **Tables** bring high revenue but incur **losses (-7%)**  
-- **Storage** has high order volume but **low profit margin**
+### 🔍 Insight:
+- **Technology** leads in both **revenue** and **profit**.
+- **Accessories**, **Art**, and **Labels** are high-margin but **low-revenue**.
+- **Suppliers** and **Furnishings** underperform in both **revenue** and **profit**.
+- **Tables** bring high **revenue** but incur **losses (-7%)**.
+- **Storage** has high **orders** but **low profit margin**.
 
-**✅ Recommendation:**  
-- **Continue scaling Technology**, especially top products like **Canon Copiers** and **Motorola/Cisco Phones**, which show strong profit per unit  
-- **Run marketing campaigns for Accessories, Art, and Labels**, capitalizing on high margins and bundling them with bestsellers  
-- **Consider delisting or downsizing Suppliers, Furnishings, and Tables** due to poor financial performance  
-- **Review pricing and operational costs for Storage**, as strong sales are not translating to strong profits  
+### ✅ Recommendation:
+- **Scale Technology**, focusing on high-margin products like **Canon Copiers** and **Motorola/Cisco Phones**.
+- **Market Accessories**, **Art**, and **Labels**, leveraging high margins.
+- **Consider delisting Suppliers**, **Furnishings**, and **Tables** due to poor performance.
+- **Review Storage pricing** and costs for better profitability.
 
 ---
 
 ### 👥 3. Customer Strategy
 
-**🔍 Insight:**  
-- **99.97% of revenue comes from existing customers**  
-- Oceania & Africa have the **largest new customer base**
+### 🔍 Insight:
+- **99.97%** of revenue comes from **existing customers**.
+- **Oceania** & **Africa** have the largest **new customer base**.
 
-**✅ Recommendation:**  
-- **Double down on existing customer retention** with loyalty and upselling initiatives  
-- **Expand customer acquisition strategies in Oceania & Africa**, where growth potential is evident  
+### ✅ Recommendation:
+- **Focus on customer retention** with loyalty and upselling initiatives.
+- **Expand acquisition efforts in Oceania & Africa** to capture growth potential.
 
 ---
 
 ### ⚙️ 4. Operational Efficiency
 
-**🔍 Insight:**  
-- **US, EU, and APAC are showing slower growth**  
-- **Central region leads in employee productivity** ($2.07M revenue per employee)  
-- **Standard Class dominates shipping revenue**
+### 🔍 Insight:
+- **US**, **EU**, and **APAC** show slower growth.
+- **Central region** leads in **employee productivity** ($2.07M per employee).
+- **Standard Class** dominates **shipping revenue**.
 
-**✅ Recommendation:**  
-- **Optimize cost and operational efficiency in mature markets** to protect profit margins  
-- **Replicate Central region’s operational model** in other regions  
-- **Maintain focus on Standard Class shipping** and audit other modes for potential cost savings  
+### ✅ Recommendation:
+- **Optimize operations** in mature markets to maintain margins.
+- **Replicate Central region's model** in other regions.
+- **Focus on Standard Class shipping** and audit other modes for savings.
+
 
 
