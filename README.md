@@ -177,102 +177,96 @@ This part is in the dashboard
 
 ### 📌 Key Findings:
 
-### 🚀 Revenue & Profit Surged
+#### 🚀 Revenue & Profit Surged
 Revenue reached **$9.48M** and profit hit **$1.09M**, both increasing **51.3% YoY**.  
 → Growth was primarily driven by increased order volume, not by improved operational efficiency (profit margin remained at **12%**).
 
-### 📈 Customer Base Expands Steadily
+#### 📈 Customer Base Expands Steadily
 Customer count grew from **1303 (2011)** to **1501 (2014)**, with a stable **~1% return rate**.  
 → Indicates strong customer retention and consistent service quality over time.
 
-### 🌎 Canada Shows Highest Profit Margin
+#### 🌎 Canada Shows Highest Profit Margin
 **Canada** achieved a **28% profit margin** despite low revenue.  
 **US, EU, and APAC** contributed the highest revenue overall.  
 → Suggests Canada has high profitability potential, while the US remains the core market in terms of scale.
 
-### 🧾 Consumer Segment Leads
+#### 🧾 Consumer Segment Leads
 The **Consumer segment** generated **$4.9M**, the highest among all segments, with a stable **11–12% margin**.  
 → Indicates steady demand and a key role in driving overall growth.
 
-### 💻 Technology Drives Growth
+#### 💻 Technology Drives Growth
 **Technology products** generated the highest revenue across all regions.  
 → Suggests customers have a strong preference for tech products over other categories.
 
-### 🛒 Growth Driven by Existing Customers
+#### 🛒 Growth Driven by Existing Customers
 **Buyer count** increased only **1%**, but **orders surged 51.7%**;  
 **Average Order Value (AOV)** slightly decreased by **-0.3%**.  
 → Indicates strong repeat purchase behavior, with smaller but more frequent orders.
-### II. Market Analysis
+#### II. Market Analysis
 
-![Image](https://github.com/user-attachments/assets/23e1875d-8cbf-413b-9c0f-03a707ef6c88)
+![Image](https://github.com/user-attachments/assets/b3e4cabf-ab5a-4c07-a8b3-1d6305b8d15c)
 
 ### 📌 Key Findings:
 
-#### 💰 Revenue and Profit Distribution  
-- **Total revenue** reached **$9.48M**, with **APAC** contributing the most (**$2.7M**), followed by **EU ($2.1M)** and **US ($1.8M)**.  
-- **Canada**, despite generating only **$0.1M**, recorded the **highest profit margin (28%)**, indicating strong operational efficiency on a small scale.  
-- In contrast, **EMEA** and **Africa** underperformed with low revenue and slim profit margins (~6–12%), dragging down overall performance.
+#### 💰 Revenue & Profit Distribution
+Total revenue **$9.48M**, with **APAC ($2.7M)**, **EU ($2.1M)**, and **US ($1.8M)** leading.  
+→ **Canada** had the highest **profit margin (28%)**, despite low revenue.  
+→ **EMEA** and **Africa** underperformed with low revenue and profit margins (~6–12%).
 
-#### 📊 Profit Contribution by Market (2011–2014)  
-- Over the 4-year period, **APAC, EU, and US** consistently contributed the most to total profit.  
-- **LATAM** maintained a steady contribution (~15%), while **Africa** and **Canada** made minor, stagnant contributions.
+#### 📊 Profit Contribution by Market
+**APAC, EU, and US** contributed the most to profit.  
+→ **LATAM** steady (~15%), while **Africa** and **Canada** contributed minimally.
 
-#### 📈 Revenue Growth by Market & Category (YoY%)  
-- **Canada** led in revenue growth with a **+219.5% YoY increase**, especially in the **Technology category (+63.5%)**.  
-- Emerging markets like **EMEA (+183.15%)** and **Africa (+168.25%)** also saw rapid growth, indicating expansion potential.  
-- Meanwhile, mature markets such as **US, EU, and APAC** showed steady growth (144–157%) but at a slower pace than developing regions.
+#### 📈 Revenue Growth by Market & Category
+**Canada** saw **+219.5% YoY** growth, especially in **Technology (+63.5%)**.  
+→ Emerging markets **EMEA (+183.15%)** and **Africa (+168.25%)** grew rapidly.
 
-#### 👥 Customer Base by Region  
-- **Central, South, and EMEA** had the highest number of **returning customers**, reflecting strong customer loyalty.  
-- **Oceania** stood out with the **largest number of new customers (187)**, indicating growth potential in customer acquisition.
+#### 👥 Customer Base & Loyalty
+**Central, South, and EMEA** had the most **returning customers**.  
+→ **Oceania** showed potential with **187 new customers**.
 
-#### 📦 Order Quantity & Return Rate  
-- **Central** led in both **order volume** and **lowest return rate (~1%)**, highlighting operational efficiency.  
-- Other regions maintained a stable return rate (1–3%) without any alarming figures.
+#### 📦 Order Volume & Return Rate
+**Central** led in **order volume** and **lowest return rate (~1%)**.  
+→ Other regions had stable return rates (1–3%).
 
-#### 🧑‍💼 Employee Productivity by Region  
-- **Central** stood out in employee productivity with:  
-  → **Revenue per employee**: $2.07M  
-  → **Profit per employee**: $212K  
-  → **Orders per employee**: 5,237  
-- **Canada**, on the other hand, recorded the lowest across all three indicators, consistent with its low revenue and profit contribution.
+#### 🧑‍💼 Employee Productivity
+**Central** excelled with:  
+→ **$2.07M revenue/employee**, **$212K profit/employee**, **5,237 orders/employee**.  
+→ **Canada** had the lowest across all metrics.
 
 ### III. Product Analysis
 
-![Image](https://github.com/user-attachments/assets/aa9b8966-1db7-4a2b-afbf-5d2e8034b6ee)
+![Image](https://github.com/user-attachments/assets/d498e651-5794-4124-a9c6-6c2e56c84470)
 
 ### 📌 Key Findings:
 
-#### 📌 Quadrant Analysis by Sub-Category  
-- This chart gives the most comprehensive overview by classifying product performance across two axes: **Revenue** and **Profit Margin**.  
-- **Copiers** and **Phones** are top performers, sitting in the top-right quadrant with **high revenue** and **strong profit margins** – clear leaders.  
-- **Accessories**, **Art**, and **Labels** have **high profit margins** but **low revenue** – they’re **profitable but under-scaled**, showing potential for growth.  
-- **Chairs**, **Bookcases**, and **Storage** show **decent revenue** but **low margins**, meaning they sell well but don’t earn much.  
-- Bottom-left quadrant features the underperformers: **Supplier** and **Furnishings** – **low revenue + low margins**, likely dragging down overall performance.
+#### 📌 Quadrant Analysis by Sub-Category
+- **Copiers** and **Phones** are the leaders with high **revenue** and **strong profit margins**.  
+- **Accessories**, **Art**, and **Labels** are **profitable but under-scaled**, showing growth potential.  
+- **Chairs**, **Bookcases**, and **Storage** perform well in revenue but have **low profit margins**.  
+- **Supplier** and **Furnishings** are underperforming with both **low revenue** and **low margins**.
 
-#### 💰 Revenue and Profit Margin by Sub-Category  
-- In terms of revenue, **Phones ($1.4M)**, **Chairs**, **Copiers**, and **Tables** are leading.  
-- Looking at profit margin, standouts include: **Accessories (26%)**, **Labels (23%)**, and **Art (18%)** – small but highly profitable.  
-- Meanwhile, **Tables (-7%)** is underperforming with minimal or negative profits.
+#### 💰 Revenue and Profit Margin by Sub-Category
+- **Phones ($1.4M)**, **Chairs**, **Copiers**, and **Tables** lead in **revenue**.  
+- **Accessories (26%)**, **Labels (23%)**, and **Art (18%)** stand out for **profit margins**.  
+- **Tables (-7%)** are underperforming with negative profit margins.
 
-#### 📦 Orders, Customers, and Return Rate by Sub-Category  
-- **Storage** has the highest number of orders (**216**), followed by **Phones (91)** and **Chairs (86)** – aligning with high-revenue categories.  
-- But high order count ≠ high profitability: **Storage**, for example, has low profit margins despite strong sales.  
-- **Labels (10%)**, **Fasteners (6%)**, and **Paper (5%)** have high return rates – red flags for quality or customer expectation issues.  
-- In contrast, categories like **Art**, **Appliances**, and **Binders** have **near-zero return rates**, indicating a solid customer experience.
+#### 📦 Orders, Customers, and Return Rate by Sub-Category
+- **Storage** leads in **orders (216)** but has low profit margins.  
+- **Labels (10%)**, **Fasteners (6%)**, and **Paper (5%)** show high **return rates**, raising potential quality concerns.  
+- Categories like **Art** and **Appliances** have **low return rates**, indicating high customer satisfaction.
 
-#### 🚚 Revenue and Profit by Ship Mode  
-- **Standard Class** dominates with **$5.7M in revenue**, far surpassing other shipping modes.  
-- **First Class** and **Second Class** bring in significantly less revenue (**$1.4M**, **$1.9M**) and lower profits – suggesting most customers prioritize cost over speed.
+#### 🚚 Revenue and Profit by Ship Mode
+- **Standard Class** dominates with **$5.7M in revenue**, while **First Class** and **Second Class** bring in significantly less.  
+→ Shows that **most customers prioritize cost over speed**.
 
-#### 🪑 Profit by Segment and Category  
-- **Consumer Segment** generates the highest profit (**$0.28M**), outperforming Corporate and Home Office.  
-- Within each segment, **Technology** consistently delivers the most profit, especially for Consumer and Corporate.  
-- **Office Supplies**, however, yield lower profit margins – especially in the Home Office segment, which is barely profitable.
+#### 🪑 Profit by Segment and Category
+- **Consumer Segment** generates the highest profit (**$0.28M**), especially in **Technology**.  
+- **Office Supplies** yield lower profit margins, especially in **Home Office**.
 
-#### 🏆 Top 10 Products by Profit  
-- Products from **Canon imageCLASS 2200 Advance Copier, Motorola Smart Phone Fullsize, Cisco Smart Full Size**, etc., top the profit chart – mostly from the **Technology** category, indicating high value with fewer units.  
-- A few Furniture and Office Supplies products made the list, but they lag behind their tech counterparts in profitability.
+#### 🏆 Top 10 Products by Profit
+- **Canon imageCLASS 2200**, **Motorola Smart Phone**, and **Cisco Smart Full Size** top the profit list, mainly from **Technology**.  
+→ **Furniture** and **Office Supplies** products lag behind in profitability.
 
 ## 🔎 Final Conclusion & Recommendation 
 
