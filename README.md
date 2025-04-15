@@ -143,25 +143,21 @@ The dataset consists of **three tables**:
 
 ### 1️⃣ Empathize
 
-![Image](https://github.com/user-attachments/assets/ff5ae83c-f1c5-4dba-b975-cf68294b0518)
+![Image](https://github.com/user-attachments/assets/502440cd-3907-4b82-87d3-4951657fdf50)
 
-![Image](https://github.com/user-attachments/assets/fe8ffc6a-f69c-4d6e-b66e-0b7721097c6c)
-
-![Image](https://github.com/user-attachments/assets/247419e0-710f-4791-b49b-6a434444df72)
-
-![Image](https://github.com/user-attachments/assets/f279dd3a-a5d5-4823-950b-443523ad619f)
+![Image](https://github.com/user-attachments/assets/5bfeeed8-b30e-41d0-a2f5-79ab0de2b0af)
 
 ### 2️⃣ Define point of view 
 
-![Image](https://github.com/user-attachments/assets/7a4e2fe0-8db3-4c70-84de-27bdce73bb8d)
+![Image](https://github.com/user-attachments/assets/88ce7d37-78e1-4ca8-a8c5-28ce7b27d420)
 
-![Image](https://github.com/user-attachments/assets/874b6351-0d0b-40a0-a9ae-6ca4d985dff4)
+![Image](https://github.com/user-attachments/assets/c0cb9290-7ffe-42fb-b6de-602219092097)
 
 ### 3️⃣ Ideate
 
-![Image](https://github.com/user-attachments/assets/d2593003-8ca6-4556-a011-7ee4f576a46d)
+![Image](https://github.com/user-attachments/assets/e03a4866-dc53-484d-80f8-7f06b6e282ff)
 
-![Image](https://github.com/user-attachments/assets/217eb049-5a4d-4acb-bb50-7cd34c58ff25)
+![Image](https://github.com/user-attachments/assets/36a18032-fc76-4cef-960e-b2f953e382d6)
 
 ### 4️⃣ Prototype and review
 
